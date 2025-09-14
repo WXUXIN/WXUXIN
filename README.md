@@ -66,7 +66,12 @@ Here are some ideas to get you started:
 ### 👷🏼‍♂️ Data Engineering
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CC33?style=for-the-badge&logo=apachehadoop&logoColor=white)
+![Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Hudi](https://img.shields.io/badge/Apache_Hudi-000000?style=for-the-badge&logo=apachehudi&logoColor=white)
 ![Slurm](https://img.shields.io/badge/Slurm-000000?style=for-the-badge&logo=slurm&logoColor=white)
 
 ### 🔄 Messaging & Data Pipelines
