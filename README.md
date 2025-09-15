@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is **Benjamin**
 <br>
 <br>
-I'm a Software/Data Engineer with over 3 years of professional experience in 🌉 Silicon Valley and 🌏 Southeast Asia building financial products and data solutions.
+I'm a Software/Data Engineer with over 3 years of professional experience in 🌉 Silicon Valley and Southeast Asia building financial products and data solutions.
 
 ## 💻 Languages I'm most familiar with
 <!-- Languages -->
