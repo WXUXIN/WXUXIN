@@ -52,6 +52,7 @@ I'm a Software/Data Engineer with over 3 years of professional experience in ðŸŒ
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-262335?style=for-the-badge&logo=bullmq&logoColor=white)
 
 ### ðŸ“Š Data Science & Machine Learning
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -76,7 +77,5 @@ I'm a Software/Data Engineer with over 3 years of professional experience in ðŸŒ
 ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Hudi](https://img.shields.io/badge/Apache_Hudi-000000?style=for-the-badge&logo=apachehudi&logoColor=white)
 ![Slurm](https://img.shields.io/badge/Slurm-000000?style=for-the-badge&logo=slurm&logoColor=white)
-
-### ðŸ”„ Messaging & Data Pipelines
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-262335?style=for-the-badge&logo=bullmq&logoColor=white)
+
